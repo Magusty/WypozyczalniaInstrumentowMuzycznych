@@ -23,46 +23,46 @@ Projekt powstał z myślą o usprawnieniu systemu wypożyczania instrumentów ws
 
 ## Opis funkcjonalności poszczególnych użytkowników
 1. Użytkownik niezalogowany 
-- przeglądanie ofert instrumentów
-- rejestracja
-- logowanie
-- przeglądanie kontaktu
+  - przeglądanie ofert instrumentów
+  - rejestracja
+  - logowanie
+  - przeglądanie kontaktu
 
 2. Użytkownik zalogowany 
-- Wylogowanie 
-- przeglądanie kontaktu
+  - Wylogowanie 
+  - przeglądanie kontaktu
 Oferta:
-- formularz z zapytaniem o instrument 
-- przeglądanie informacji o instrumencie 
-- wypożyczanie instrumentów
+  - formularz z zapytaniem o instrument 
+  - przeglądanie informacji o instrumencie 
+  - wypożyczanie instrumentów
 Kontakt:
-- przeglądanie informacji kontaktowych
+  - przeglądanie informacji kontaktowych
 Rozwijane menu:
-a) mój profil: 
-- zmiana hasła
-- edycja danych
-b) zgłoszenia: 
-- wyświetlanie listy zgłoszeń oraz zawartości konkretnego zgłoszenia
-c) lista wypożyczonych instrumentów
-- anulowanie rezerwacji(jeżeli status jest zarezerwowany) 
+  a) mój profil: 
+    - zmiana hasła
+    - edycja danych
+  b) zgłoszenia: 
+    - wyświetlanie listy zgłoszeń oraz zawartości konkretnego zgłoszenia
+  c) lista wypożyczonych instrumentów
+    - anulowanie rezerwacji(jeżeli status jest zarezerwowany) 
 
 3. Pracownik
-- Wylogowanie
-- Oferta:
-- możliwość wypożyczenia dla klienta, przeglądanie informacji o instrumencie, sprawdzenie ceny dla wybranego warunku
-- Kontakt:
-- przeglądanie informacji kontaktowych
-- Rozwijane menu
-a) Profil:
-- zmiana hasła, edycja danych
-b) Zgłoszenia: 
-- wyświetlanie listy nieodpowiedzianych zgłoszeń, zgłoszenia na które odpowiedział zalogowany pracownik
-b1) Zgłoszenie:
-- wyświetlanie szczegółów zapytań, odpowiadanie na wybrane zapytanie
-c) Lista wypożyczeń: 
-- przeglądanie dzisiejszych odbiorów/zwrotów instrumentów, przeglądanie jutrzejszych odbiorów/zwrotów instrumentów, przeglądanie wszystkich rezerwacji i wypożyczeń, wyświetlenie szczegółów wypożyczenia, zmiana statusu wypożyczenia, odnotowywanie płatności klienta, odnotowywanie wpłaty kaucji
-d) Lista klientów:
-- wyświetlanie listy klientów
+  - Wylogowanie
+  - Oferta:
+  - możliwość wypożyczenia dla klienta, przeglądanie informacji o instrumencie, sprawdzenie ceny dla wybranego warunku
+  - Kontakt:
+  - przeglądanie informacji kontaktowych
+  - Rozwijane menu
+  a) Profil:
+      - zmiana hasła, edycja danych
+  b) Zgłoszenia: 
+      - wyświetlanie listy nieodpowiedzianych zgłoszeń, zgłoszenia na które odpowiedział zalogowany pracownik
+  b1) Zgłoszenie:
+      - wyświetlanie szczegółów zapytań, odpowiadanie na wybrane zapytanie
+  c) Lista wypożyczeń: 
+      - przeglądanie dzisiejszych odbiorów/zwrotów instrumentów, przeglądanie jutrzejszych odbiorów/zwrotów instrumentów, przeglądanie wszystkich rezerwacji i wypożyczeń, wyświetlenie szczegółów wypożyczenia,        zmiana statusu wypożyczenia, odnotowywanie płatności klienta, odnotowywanie wpłaty kaucji
+  d) Lista klientów:
+      - wyświetlanie listy klientów
 
 4. Administrator 
 - Wylogowanie
