@@ -31,13 +31,13 @@ Projekt powstał z myślą o usprawnieniu systemu wypożyczania instrumentów ws
 2. Użytkownik zalogowany 
   - Wylogowanie 
   - przeglądanie kontaktu
-  Oferta:
+  * Oferta:
   - formularz z zapytaniem o instrument 
   - przeglądanie informacji o instrumencie 
   - wypożyczanie instrumentów
 Kontakt:
   - przeglądanie informacji kontaktowych
-  Rozwijane menu:
+  * Rozwijane menu:
  - mój profil: 
     - zmiana hasła
     - edycja danych
