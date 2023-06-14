@@ -1,7 +1,7 @@
-#OPIS FUNKCJONALNOŚCI POSZCZEGÓLNYCH UŻYTKOWNIKÓW
+OPIS FUNKCJONALNOŚCI POSZCZEGÓLNYCH UŻYTKOWNIKÓW
 1. Użytkownik niezalogowany 
 przeglądanie ofert instrumentów, rejestracja, logowanie, przeglądanie kontaktu
-#=====
+
 2. Użytkownik zalogowany 
 Wylogowanie, przeglądanie kontaktu
 - Oferta
@@ -15,7 +15,7 @@ b) zgłoszenia
 wyświetlanie listy zgłoszeń oraz zawartości konkretnego zgłoszenia
 c) lista wypożyczonych instrumentów
 anulowanie rezerwacji(jeżeli status jest zarezerwowany) 
-#=====
+
 3. Pracownik
 Wylogowanie
 - Oferta
@@ -33,7 +33,7 @@ c) Lista wypożyczeń
 przeglądanie dzisiejszych odbiorów/zwrotów instrumentów, przeglądanie jutrzejszych odbiorów/zwrotów instrumentów, przeglądanie wszystkich rezerwacji i wypożyczeń, wyświetlenie szczegółów wypożyczenia, zmiana statusu wypożyczenia, odnotowywanie płatności klienta, odnotowywanie wpłaty kaucji
 d) Lista klientów 
 wyświetlanie listy klientów
-#=====
+
 4. Administrator 
 Wylogowanie
 - Strona główna
