@@ -66,9 +66,9 @@ Kontakt:
 
 4. Administrator 
 - Wylogowanie
-Strona główna:
+* Strona główna:
 - dodanie nowej lokalizacji, zobaczenie listy lokalizacji, edycja strony głównej 
-Oferta:
+* Oferta:
 - możliwość ukrycia instrumentu, przeglądanie szczegółów instrumentu, edycja instrumentu
 * Kontakt: 
 - edycja telefonu, nazwy firmy, adresu i emaila
