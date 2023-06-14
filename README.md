@@ -21,7 +21,7 @@ Projekt powstał z myślą o usprawnieniu systemu wypożyczania instrumentów ws
 
 * bootstrap wersja 5
 
-## OPIS FUNKCJONALNOŚCI POSZCZEGÓLNYCH UŻYTKOWNIKÓW
+## Opis funkcjonalności poszczególnych użytkowników
 1. Użytkownik niezalogowany 
 - przeglądanie ofert instrumentów
 - rejestracja
@@ -37,7 +37,7 @@ Oferta:
 - wypożyczanie instrumentów
 Kontakt:
 - przeglądanie informacji kontaktowych
-* Rozwijane menu:
+Rozwijane menu:
 a) mój profil: 
 - zmiana hasła
 - edycja danych
